@@ -1,2 +1,1 @@
 Livros/8023-2022.pdf filter=lfs diff=lfs merge=lfs -text
-Livros/Understanding[[:space:]]Fiber[[:space:]]Optics[[:space:]]-[[:space:]]Jeff[[:space:]]Hetch.pdf filter=lfs diff=lfs merge=lfs -text

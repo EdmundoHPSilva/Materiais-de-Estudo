@@ -1,0 +1,26 @@
+t = 0:
+
+-Capacitores: são um curto;
+-Indutores: são um circuito aberto;
+
+1 constante:
+
+-Capacitores: Atingem = 63,21%  da tensão;
+-Indutores: Atingem = 63,21% da corrente;
+
+Opostos: 
+
+-R = Condutância;
+-C = Permissividade;
+-L = Permeabilidade;
+
+Comportamento fasorial = 
+
+-R = Mantém a mesma fase;
+-C = Atrasa a corrente em 90°
+-L = Adianta a corrente 90°
+
+Frequência: 
+
+-C = Muita alta: Vira um curto; Muito baixa: circuito aberto;
+-L = Muita alta: Vira um circuito aberto; Muito baixa: curto;
